@@ -1,4 +1,4 @@
-# cs224n
+# CS224n
 
 存放代码和课堂笔记，课程网站：http://web.stanford.edu/class/cs224n/index.html
 
